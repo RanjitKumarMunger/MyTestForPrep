@@ -1,0 +1,9 @@
+https://github.com/RanjitKumarMunger/MyTestForPrep
+pwd-
+
+maadurga12345
+
+command for add git remote add origin 
+path for Repository-https://github.com/RanjitKumarMunger/MyTestForPrep.git
+
+FOr Push command  git push -u origin master
